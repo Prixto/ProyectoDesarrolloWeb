@@ -5,6 +5,7 @@
     }
 
     .two-columns {
+        color: white;
         display:flex;
     }
 
